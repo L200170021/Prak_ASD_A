@@ -194,7 +194,7 @@ class MhsTIF(Mahasiswa):
     
 #############################Kode Eksekusi#############################     
 m7 = Mahasiswa("Adnan","L200170021","Klaten",90000)
-s1 = SiswaSMA("Adnan",17021,5,"Klten")
+s1 = SiswaSMA("Adnan",17021,5,"Klaten")
 
 ## m9.ambilKotaTinggal()
 ## m9.perbaruiKotaTinggal('Surakarta')
